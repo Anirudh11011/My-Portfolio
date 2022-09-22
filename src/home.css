@@ -1,0 +1,33 @@
+#p{
+    font-size:70px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 140px;
+    color:rgb(9, 21, 189) ;
+    
+
+}
+#aboutpage{
+    font-size:50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 140px;
+    color:rgb(9, 21, 189) ;
+}
+#contactme{
+    font-size:50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 140px;
+    color:rgb(9, 21, 189) ;
+}
+
+#symbol{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size:30px;
+   
+}
